@@ -1,2 +1,2 @@
-# MSP430F5529-LowPowerMode-firmware
- All MSP430F5529 microcontroller power saving modes configuration
+# MSP430F5529-Library
+Examples written in C
