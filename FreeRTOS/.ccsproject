@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<?ccsproject version="1.0"?>
+<projectOptions>
+	<deviceFamily value="MSP430"/>
+	<origin value="C:/Users/cano/workspace_v6_1_rtos/FreeRTOSv8.1.2-ECG-protocolov3"/>
+	<connection value="common/targetdb/connections/TIMSP430-USB.xml"/>
+	<isTargetManual value="false"/>
+</projectOptions>
