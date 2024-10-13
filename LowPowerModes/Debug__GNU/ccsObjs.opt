@@ -1,1 +1,0 @@
--T"../msp430f5529.ld" -Wl,--start-group -lc -lgcc -Wl,--end-group 

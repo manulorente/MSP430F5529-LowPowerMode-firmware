@@ -1,3 +1,68 @@
-# Auto detect text files and perform LF normalization
-* text=auto
-*.* linguist-language=C
+# C and C++ files
+*.c linguist-language=C
+*.h linguist-language=C++
+*.cpp linguist-language=C++
+
+
+# Python files
+*.py linguist-language=Python
+
+
+# JavaScript files
+*.js linguist-language=JavaScript
+
+
+# HTML and CSS files
+*.html linguist-language=HTML
+*.css linguist-language=CSS
+
+
+# C# files
+*.cs linguist-language=C#
+
+
+# Markdown files
+*.md linguist-language=Markdown
+
+
+# JSON files
+*.json linguist-language=JSON
+
+
+# Shell scripts
+*.sh linguist-language=Shell
+
+
+# Ruby files
+*.rb linguist-language=Ruby
+
+
+# VHDL files
+*.vhd linguist-language=VHDL
+
+
+# Verilog files
+*.v linguist-language=Verilog
+
+
+# Assembly files
+*.asm linguist-language=Assembly
+
+
+# Java files
+*.java linguist-language=Java
+
+
+# Matlab files
+*.m linguist-language=Matlab
+
+
+# Tcl files
+*.tcl linguist-language=Tcl
+
+
+# Ignore binary files from language detection
+*.png linguist-vendored
+*.jpg linguist-vendored
+*.gif linguist-vendored
+*.zip linguist-vendored
